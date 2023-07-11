@@ -1,4 +1,4 @@
-![WPS图片(5)](https://github.com/zry-wyj/cve/assets/139187135/a763966b-3bb9-4ac3-b0fc-94672cca41b8)SQL injection vulnerability exists in ibos oa v4.5.5
+SQL injection vulnerability exists in ibos oa v4.5.5
 
 official website:http://www.ibos.com.cn/
 
